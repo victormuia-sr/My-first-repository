@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @victormuia-sr
 - 👀 I’m interested in software engineering
-- 🌱 I’m currently learning c++ and Java
+- 🌱 I’m currently learning how to Use GitHub
 - 📫 How to reach me: victormuia.sr@gmail.com
 
 <!---
